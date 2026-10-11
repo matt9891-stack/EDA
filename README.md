@@ -1,2 +1,2 @@
 # EDA
-EDA_Wine_Quality
+EDA_Examples
